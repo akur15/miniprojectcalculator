@@ -24,9 +24,8 @@ section{
 }
 .display{
   background-color:lightgray;
-  height:5vh;
+  height:150px;
   width:100%;
   text-align:right;
-  padding:20px;
   font-size:30px;
 }
