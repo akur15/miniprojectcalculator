@@ -36,7 +36,8 @@ section{
 }
 .temp-result{
   position:absolute;
-  left:0;
+  left:10px;
   bottom:0;
   font-size:20px;
+  opacity:0.4;
 }
