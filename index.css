@@ -9,7 +9,8 @@ html{
 }
 
 section{
-  min-height:100vh;
+  min-height:1800px;
+  max-height:1800px;
   width:100%;
   display:flex;
   justify-content:center;
