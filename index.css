@@ -35,3 +35,7 @@ section{
   opacity:0.4;
   font-size:20px;
 }
+.temp-result{
+  position:absolute;
+  text-align:left;
+}
