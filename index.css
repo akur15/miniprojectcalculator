@@ -47,3 +47,6 @@ section{
   display:grid;
   grid-template: repeat(4, 1fr) / (4, 1fr);
 }
+.btn-0{
+  grid-column:1/3;
+}
