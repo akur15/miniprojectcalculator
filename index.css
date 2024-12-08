@@ -52,4 +52,6 @@ section{
 }
 .button{
   border: 0.5px solid #4c6c72;
+  display:inline-block;
+  height:50px;
 }
