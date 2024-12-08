@@ -24,10 +24,14 @@ section{
 }
 .display{
   background-color:lightgray;
-  height:150px;
+  height:100px;
   width:100%;
   text-align:right;
   padding:20px;
   font-size:30px;
   position:relative;
+}
+.display-history{
+  opacity:0.4;
+  font-size:20px;
 }
