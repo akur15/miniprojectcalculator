@@ -37,5 +37,7 @@ section{
 }
 .temp-result{
   position:absolute;
-  text-align:left;
+  left:0;
+  bottom:0;
+  font-size:20px;
 }
