@@ -63,7 +63,7 @@ section{
 .button:hover{
   background-color:#0a939e;
 }
-.operation, .all_clear{
+.operation, .all-clear, last-entity-clear, .equal{
   background-color:#09898c;
 }
 
