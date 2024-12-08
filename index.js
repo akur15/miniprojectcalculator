@@ -12,3 +12,9 @@ let dis2Num = "";
 let result = null;
 let lastOperation = "";
 let haveDot = false;
+
+numbers.forEach ((number) =>{
+  number.addEventListener("click" => (e) {
+      console.log(e.target.innerText)
+  })
+});
