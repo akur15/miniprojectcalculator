@@ -42,3 +42,8 @@ section{
   font-size:20px;
   opacity:0.4;
 }
+.all-button{
+  color:whitesmoke;
+  display:grid;
+  grid-template: repeat(4, 1fr) / (4, 1fr);
+}
