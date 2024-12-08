@@ -53,5 +53,8 @@ section{
 .button{
   border: 0.5px solid #4c6c72;
   display:inline-block;
-  height:50px;
+  height:100px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
